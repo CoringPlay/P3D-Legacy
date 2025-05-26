@@ -1,109 +1,109 @@
 language_name,Русский
 =====
 Global:
-global_please_wait,Please wait
-global_loading,Loading
-global_game,Game
-global_login,Log in
-global_create_account,Create Account
-global_male,Male
-global_female,Female
-global_genderless,Genderless
-global_yes,Yes
-global_no,No
-global_accept,Accept
-global_cancel,Cancel
-global_ok,OK
-global_gamemode,GameMode
-global_clear,Clear
-global_save,Save
-global_apply,Apply
-global_close,Close
-global_back,Back
-global_quit,Quit
-global_on,On
-global_off,Off
-global_enabled,Enabled
-global_disabled,Disabled
-global_enable,Enable
-global_disable,Disable
-global_player_name,Player Name
-global_badges,Badges
-global_play_time,Play Time
-global_location,Location
-global_money,Money
-global_points,Points
-global_IDNo.,ID No.
-global_time,Time
-global_name,Name
-global_order,Order
-global_filter,Filter
-global_reset,Reset
-global_pokemon_type_normal,Normal
-global_pokemon_type_fire,Fire
-global_pokemon_type_flying,Flying
-global_pokemon_type_fighting,Fighting
-global_pokemon_type_water,Water
-global_pokemon_type_grass,Grass
-global_pokemon_type_poison,Poison
-global_pokemon_type_ground,Ground
-global_pokemon_type_electric,Electric
-global_pokemon_type_psychic,Psychic
-global_pokemon_type_rock,Rock
-global_pokemon_type_ice,Ice
-global_pokemon_type_bug,Bug
-global_pokemon_type_dragon,Dragon
-global_pokemon_type_ghost,Ghost
-global_pokemon_type_dark,Dark
-global_pokemon_type_steel,Steel
-global_pokemon_type_fairy,Fairy
+global_please_wait,Пожалуйста подождите
+global_loading,Загрузка
+global_game,Игра
+global_login,Войти
+global_create_account,Создать аккаунт
+global_male,Мужчина
+global_female,Женщина
+global_genderless,Бесполый
+global_yes,Да
+global_no,Нет
+global_accept,Применить
+global_cancel,Закрыть
+global_ok,Ок
+global_gamemode,Игровой режим
+global_clear,Стереть
+global_save,Сохранить
+global_apply,Применить
+global_close,Закрыть
+global_back,Назад
+global_quit,Закрыть
+global_on,Вкл
+global_off,Выкл
+global_enabled,Включить
+global_disabled,Выключить
+global_enable,Активно
+global_disable,Неактивно
+global_player_name,Имя игрока
+global_badges,Значки
+global_play_time,Время игры
+global_location,Локация
+global_money,Деньги
+global_points,Очки
+global_IDNo.,ID №.
+global_time,Время
+global_name,Имя
+global_order,Приказ
+global_filter,Фильтер
+global_reset,Перезагрузить
+global_pokemon_type_normal,Нормальный
+global_pokemon_type_fire,Огненный
+global_pokemon_type_flying,Летающий
+global_pokemon_type_fighting,Боевой
+global_pokemon_type_water,Водный
+global_pokemon_type_grass,Травяной
+global_pokemon_type_poison,Ядовитый
+global_pokemon_type_ground,Земляной
+global_pokemon_type_electric,Электрический
+global_pokemon_type_psychic,Психический
+global_pokemon_type_rock,Каменный
+global_pokemon_type_ice,Ледяной
+global_pokemon_type_bug,Насекомый
+global_pokemon_type_dragon,Драконий
+global_pokemon_type_ghost,Призрачный
+global_pokemon_type_dark,Тёмный
+global_pokemon_type_steel,Стальной
+global_pokemon_type_fairy,Волшебный
 global_pokemon_type_blank,Blank
 global_true,True
 global_false,False
-global_select,Select
-global_summary,Summary
-global_item,Item
-global_use,Use
-global_give,Give
-global_take,Take
-global_toss,Toss
-global_switch,Switch
-global_learn,Learn
-global_pokemon_move_fly,Fly
-global_pokemon_move_rocksmash,Rock Smash
-global_pokemon_move_ride,Ride
-global_pokemon_move_flash,Flash
-global_pokemon_move_cut,Cut
-global_pokemon_move_teleport,Teleport
-global_pokemon_move_dig,Dig
-global_used,Used
-global_none,None
+global_select,Выбрать
+global_summary,Кратко
+global_item,Предмет
+global_use,Использовать
+global_give,Дать
+global_take,Взять
+global_toss,Бросить
+global_switch,Сменить
+global_learn,Изучить
+global_pokemon_move_fly,Полёт
+global_pokemon_move_rocksmash,Камнелом
+global_pokemon_move_ride,Ездить
+global_pokemon_move_flash,Вспышка
+global_pokemon_move_cut,Резать
+global_pokemon_move_teleport,Телепорт
+global_pokemon_move_dig,Рыть
+global_used,Использовать
+global_none,Ничего
 ---
 Pokémon & Attack Properties:
 
-property_HP,HP
-property_PP,PP
-property_No.,No.
-property_Lv.,Lv.
-property_Level,Level
-property_MaxHP,Max HP
-property_Attack,Attack
-property_Defense,Defense
-property_Special_Attack,Special Attack
-property_Sp_Attack,Sp. Attack
-property_Special_Defense,Special Defense
-property_Sp_Defense,Sp. Defense
-property_Speed,Speed
-property_Ability,Ability
-property_Type,Type
+property_HP,ОЗ
+property_PP,ОС
+property_No.,№.
+property_Lv.,Ур.
+property_Level,Уровень
+property_MaxHP,Макс ОЗ
+property_Attack,Атака
+property_Defense,Защита
+property_Special_Attack,Специальная атака
+property_Sp_Attack,Спец. атака
+property_Special_Defense,Специальная защита
+property_Sp_Defense,Спец. защита
+property_Speed,Скоромть
+property_Ability,Навый
+property_Type,Тип
 property_Nature,Nature
-property_DexNo.,Dex No.
+property_DexNo.,Декс №.
 property_OT,OT
-property_CatchMethod,Catch Method
-property_ExpPoints,Exp. Points
-property_Category,Category
-property_Power,Power
-property_Accuracy,Accuracy
+property_CatchMethod,Метод поимки
+property_ExpPoints,Очки опыта
+property_Category,Категория
+property_Power,Сила
+property_Accuracy,Точность
 ---
 Summary Screen:
 
@@ -193,37 +193,37 @@ fieldmove_fly_CannotUse,You cannot Fly~from here!
 fieldmove_fly_used,used~Fly!
 ---
 GameInteractions:
-game_interaction_interact,Interact
-game_interaction_gamemenu,Game Menu
+game_interaction_interact,Взаимодействовать
+game_interaction_gamemenu,Меню игры
 game_interaction_pokegear,Pokégear
-game_interaction_pausemenu,Pause Menu
+game_interaction_pausemenu,Меню паузы
 game_interaction_accept,Accept
 game_interaction_enter,Enter
 game_interaction_confirm,Confirm
-game_interaction_back,Back
+game_interaction_back,Назад
 game_interaction_dismiss,Dismiss
-game_interaction_go_back,Go Back
-game_interaction_close,Close
-game_interaction_edit,Edit
-game_interaction_clear,Clear
-game_interaction_delete,Delete
-game_interaction_learn,Learn
-game_interaction_notification,Notification
+game_interaction_go_back,Обратно
+game_interaction_close,Закрыть
+game_interaction_edit,Изменить
+game_interaction_clear,Очистить
+game_interaction_delete,Удалить
+game_interaction_learn,Изучить
+game_interaction_notification,Уведомление
 game_notification_accept,Press <system.button(special)> to accept.
 game_notification_dismiss,Press <system.button(special)> to dismiss.
 ---
 PressStartScreen:
-start_screen_press,Press
-start_screen_tostart,to start.
+start_screen_press,Нажми
+start_screen_tostart,чтобы начать.
 ---
 Main Menu:
-main_menu_newgame_line1,New
-main_menu_newgame_line2,Game
-main_menu_options,Options
-main_menu_gamejolt_ChangeToMale,Change to male
-main_menu_gamejolt_ChangeToFemale,Change to female
+main_menu_newgame_line1,Новая
+main_menu_newgame_line2,Игра
+main_menu_options,Настройки
+main_menu_gamejolt_ChangeToMale,Выбрать мужчину
+main_menu_gamejolt_ChangeToFemale,Выбрать женщину
 main_menu_gamejolt_ChangeToGenderless,Change to genderless
-main_menu_gamejolt_ResetSave,Reset save
+main_menu_gamejolt_ResetSave,Перезапустить сохранения
 main_menu_error_gamemode_profile,The required GameMode does not exist!
 main_menu_error_gamemode_message,The required GameMode does not exist.~Reaquire the GameMode to play on this profile.
 main_menu_error_gamejolt_1,Download failed. Press Accept to try again.
@@ -238,12 +238,12 @@ main_menu_options_contentpacks_line1,Content
 main_menu_options_contentpacks_line2,Packs
 
 GameModeMenu:
-gamemode_menu_select1,Select a GameMode
-gamemode_menu_select2,to start the new game with.
-gamemode_menu_name,Name
-gamemode_menu_description,Description
-gamemode_menu_version,Version
-gamemode_menu_author,Author
+gamemode_menu_select1,Выбери игровой режим
+gamemode_menu_select2,чтобы начать новую игру.
+gamemode_menu_name,Название
+gamemode_menu_description,Описание
+gamemode_menu_version,Версия
+gamemode_menu_author,Автор
 gamemode_menu_contentpath,ContentPath
 gamemode_menu_create,Create
 gamemode_menu_back,Back
@@ -272,19 +272,19 @@ join_server_screen_version_mismatch,Version doesn't match the server's version.
 join_server_screen_no_connection,(no connection)
 ---
 Options Screen:
-option_screen_title,Options
+option_screen_title,Настройки
 
-option_screen_game,Game
-option_screen_game_textspeed,Text Speed
-option_screen_game_difficulty,Difficulty
-option_screen_game_difficulty_easy,Easy
-option_screen_game_difficulty_hard,Hard
-option_screen_game_difficulty_superhard,Super Hard
+option_screen_game,Игра
+option_screen_game_textspeed,Скорость текста
+option_screen_game_difficulty,Сложность
+option_screen_game_difficulty_easy,Лёгкая
+option_screen_game_difficulty_hard,Сложная
+option_screen_game_difficulty_superhard,Супер сложная
 option_screen_game_interfacescale,Interface Scale
 option_screen_game_interfacescale_automatic,Automatic
 option_screen_game_viewbobbing,View Bobbing
 
-option_screen_graphics,Graphics
+option_screen_graphics,Графика
 option_screen_graphics_fov,Field of View
 option_screen_graphics_renderdistance,Render Distance
 option_screen_graphics_renderdistance_tiny,Tiny
@@ -299,28 +299,28 @@ option_screen_graphics_graphics_fancy,Fancy
 option_screen_graphics_graphics_fast,Fast
 option_screen_graphics_multisampling,Multi Sampling
 
-option_screen_battle,Battle
+option_screen_battle,Сражение
 option_screen_battle_3dmodels,3D Models
 option_screen_battle_animations,Animations
 option_screen_battle_battlestyle,Battle Style
 option_screen_battle_battlestyle_shift,Shift
 option_screen_battle_battlestyle_set,Set
 
-option_screen_controls,Controls
+option_screen_controls,Контролеры
 option_screen_controls_xboxgamepad,Xbox Gamepad
 option_screen_controls_resetkeybindings,Reset Key Bindings
-option_screen_controls_cameraspeed,Camera Speed
-option_screen_controls_cameraspeed_slow,...Slow...
-option_screen_controls_cameraspeed_medium,Standard
-option_screen_controls_cameraspeed_fast,Super fast!
-option_screen_controls_cameraspeed_fastest,SPEED OF LIGHT!
-option_screen_controls_running,Running
-option_screen_controls_running_hold,Hold
-option_screen_controls_running_toggle,Toggle
+option_screen_controls_cameraspeed,Скорость камеры
+option_screen_controls_cameraspeed_slow,...Медленная...
+option_screen_controls_cameraspeed_medium,Обычная
+option_screen_controls_cameraspeed_fast,Супер быстрая!
+option_screen_controls_cameraspeed_fastest,СКОРОСТЬ СВЕТА!
+option_screen_controls_running,Бег
+option_screen_controls_running_hold,Удерживанать
+option_screen_controls_running_toggle,Переключать
 
-option_screen_audio,Audio
-option_screen_audio_volume_music,Music Volume
-option_screen_audio_volume_sfx,SoundFX Volume
+option_screen_audio,Звук
+option_screen_audio_volume_music,Громкость музыки
+option_screen_audio_volume_sfx,Громкость эффектов
 option_screen_audio_muted,Muted
 
 option_screen_contentpacks_up,Move Up
